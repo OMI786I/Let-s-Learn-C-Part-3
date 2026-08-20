@@ -1,4 +1,5 @@
-﻿int saleAmount = 1001;
+﻿/*
+int saleAmount = 1001;
 
 int discount = saleAmount > 1000? 100 : 50;
 
@@ -30,4 +31,30 @@ else if (permission.Contains("Manager"))
 else
 {
     Console.WriteLine("You have standard user privileges.");
+}
+
+*/
+
+//understanding code blocks and scope
+
+
+bool flag = true;
+int value = 10;
+
+if (flag)
+{
+    Console.WriteLine($"Inside the code block: {value}");
+}
+
+
+Console.WriteLine($"Outside the code block: {value}");
+
+
+int value3 = 5;
+
+if (value3 > 0)
+{
+    int value4 = 6;
+    int sum = value3 + value4;
+    Console.WriteLine($"Sum: {sum}");
 }
