@@ -1,0 +1,15 @@
+D:\C# Projects\CsharpProjectspart3\loop\bin\Debug\net10.0\loop.exe
+D:\C# Projects\CsharpProjectspart3\loop\bin\Debug\net10.0\loop.deps.json
+D:\C# Projects\CsharpProjectspart3\loop\bin\Debug\net10.0\loop.runtimeconfig.json
+D:\C# Projects\CsharpProjectspart3\loop\bin\Debug\net10.0\loop.dll
+D:\C# Projects\CsharpProjectspart3\loop\bin\Debug\net10.0\loop.pdb
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.AssemblyInfoInputs.cache
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.AssemblyInfo.cs
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.csproj.CoreCompileInputs.cache
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.sourcelink.json
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.dll
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\refint\loop.dll
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.pdb
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\loop.genruntimeconfig.cache
+D:\C# Projects\CsharpProjectspart3\loop\obj\Debug\net10.0\ref\loop.dll

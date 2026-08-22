@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\CsharpProjectspart3\\switch_case\\switch_case.csproj": {}
+    "D:\\C# Projects\\CsharpProjectspart3\\loop\\loop.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\CsharpProjectspart3\\switch_case\\switch_case.csproj": {
+    "D:\\C# Projects\\CsharpProjectspart3\\loop\\loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\CsharpProjectspart3\\switch_case\\switch_case.csproj",
-        "projectName": "switch_case",
-        "projectPath": "D:\\C# Projects\\CsharpProjectspart3\\switch_case\\switch_case.csproj",
+        "projectUniqueName": "D:\\C# Projects\\CsharpProjectspart3\\loop\\loop.csproj",
+        "projectName": "loop",
+        "projectPath": "D:\\C# Projects\\CsharpProjectspart3\\loop\\loop.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\CsharpProjectspart3\\switch_case\\obj\\",
+        "outputPath": "D:\\C# Projects\\CsharpProjectspart3\\loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
