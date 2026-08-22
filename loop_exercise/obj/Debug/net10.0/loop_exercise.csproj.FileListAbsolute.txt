@@ -1,0 +1,15 @@
+d:\C# Projects\CsharpProjectspart3\loop_exercise\bin\Debug\net10.0\loop_exercise.exe
+d:\C# Projects\CsharpProjectspart3\loop_exercise\bin\Debug\net10.0\loop_exercise.deps.json
+d:\C# Projects\CsharpProjectspart3\loop_exercise\bin\Debug\net10.0\loop_exercise.runtimeconfig.json
+d:\C# Projects\CsharpProjectspart3\loop_exercise\bin\Debug\net10.0\loop_exercise.dll
+d:\C# Projects\CsharpProjectspart3\loop_exercise\bin\Debug\net10.0\loop_exercise.pdb
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.GeneratedMSBuildEditorConfig.editorconfig
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.AssemblyInfoInputs.cache
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.AssemblyInfo.cs
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.csproj.CoreCompileInputs.cache
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.sourcelink.json
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.dll
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\refint\loop_exercise.dll
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.pdb
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\loop_exercise.genruntimeconfig.cache
+d:\C# Projects\CsharpProjectspart3\loop_exercise\obj\Debug\net10.0\ref\loop_exercise.dll
